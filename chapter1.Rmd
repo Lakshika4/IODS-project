@@ -9,11 +9,6 @@ output:
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
 
-2. I have worked with Rstudio briefly almost two years ago. Going trough from chapter 1 to 5 helped a lot to refresh my memories. I mainly work with Python. Hence, concept and the basics of coding not new to me. I think it will help a lot to work with R as the logic is quite similar. I need to get familiarize my self with the libraries and functions used in R-studio.I don't have a favorite chapter at the moment, but I liked the chapter "Different types of plots" because I always likes to visualize data.Chapter 6 and 8 was bit difficult. Chapter 1 -5 were basics of R-studio and chapter 6 and 8 were about statistical methods (t - tests) with R-studio. I'm not quite knowledgeable with t- tests. It was a sudden change and took some time for me to wrap my head around the theories. At the moment I feel like I can make it. Overall I like the chapters and the the new approach of getting start with R Markdown. It provides step by step instruction so even a person who doesn't has much experience with R-studio could follow without mush hustle. 
-
-I'm expecting to learn on the statistical method used for data processing.I searched for open data science courses in Sisu and came across with this course.
-
-The link to my Github: https://github.com/Lakshika4/IODS-project
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
@@ -21,5 +16,8 @@ The link to my Github: https://github.com/Lakshika4/IODS-project
 date()
 
 ```
-The text continues here.
+2. I have worked with Rstudio briefly almost two years ago. Going trough from chapter 1 to 5 helped a lot to refresh my memories. I mainly work with Python. Hence, concept and the basics of coding not new to me. I think it will help a lot to work with R as the logic is quite similar. I need to get familiarize my self with the libraries and functions used in R-studio.I don't have a favorite chapter at the moment, but I liked the chapter "Different types of plots" because I always likes to visualize data.Chapter 6 and 8 was bit difficult. Chapter 1 -5 were basics of R-studio and chapter 6 and 8 were about statistical methods (t - tests) with R-studio. I'm not quite knowledgeable with t- tests. It was a sudden change and took some time for me to wrap my head around the theories. At the moment I feel like I can make it. Overall I like the chapters and the the new approach of getting start with R Markdown. It provides step by step instruction so even a person who doesn't has much experience with R-studio could follow without mush hustle. 
 
+I'm expecting to learn on the statistical method used for data processing.I searched for open data science courses in Sisu and came across with this course.
+
+The link to my Github: https://github.com/Lakshika4/IODS-project
